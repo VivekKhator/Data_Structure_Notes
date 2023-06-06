@@ -1,0 +1,5 @@
+What is Matrix Data Structure?
+ - A Matrix represents a collection of numbers arranged in a order of rows and columns. 
+   Also known as 2-Dimentional arrays.
+
+Declaration
